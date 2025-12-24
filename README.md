@@ -1,5 +1,11 @@
 # 💫 About Me:
-HTML5, CSS3, and JavaScript.<br>I’m looking to collaborate on beginner-friendly frontend projects such as portfolio websites, landing pages, or small JavaScript projects where I can improve my real-world development skills and learn from other developers.<br>I’m looking for help and guidance in writing clean JavaScript, improving project structure, and understanding best practices for frontend development and GitHub workflows.<br>I’m currently learning frontend development, including HTML, CSS, JavaScript (ES6+), responsive design, basic SEO, and version control using Git and GitHub. I’m also exploring how to structure projects professionally.<br>Ask me about HTML semantics, CSS Flexbox & Grid, basic JavaScript DOM manipulation, Git & GitHub basics, and how to build a simple responsive portfolio website from scratch.<br>
+Working with HTML5, CSS3, and JavaScript.<br>
+Interested in collaborating on beginner-friendly frontend projects like portfolio websites,
+landing pages, and small JavaScript-based features.<br>
+Currently focused on writing clean JavaScript, improving project structure,
+and understanding best practices for frontend development and GitHub workflows.<br>
+Ask about semantic HTML, responsive layouts with CSS Flexbox and Grid,
+basic JavaScript DOM manipulation, and Git & GitHub basics.
 
 
 ## 🌐 Socials:
